@@ -1,0 +1,30 @@
+{
+  "train_config": {
+    "pre_trained_model": "m-a-p/MERT-v1-95M",
+    "accumulate_grad_batches": 1,
+    "memory_fraction": 0.85,
+    "min_epochs": 1,
+    "nb_epochs": 1000,
+    "early_stop": 50,
+    "batch_size": 128,
+    "random_seed": 0,
+    "warmup": 10,
+    "learning_rate": 0.0003,
+    "winner": "MAIN"
+  },
+  "model_config": {
+    "representation_dim": 32,
+    "mose_aux": 1,
+    "loss_weights": {
+      "y_pred": 1.0,
+      "y_effect": 1.0,
+      "y_aux": 1.0
+    }
+  },
+  "data_config": {
+    "dataset": "gtzan",
+    "slice_length": 10,
+    "seconds_overlap": 1,
+    "nb_classes": 10
+  }
+}
