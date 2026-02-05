@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repo is official PyTorch implementation of **Adversarial Rivalry Learning for Music Classification (submitted to ICASSP 2026)**.
+This repo is official PyTorch implementation of **Adversarial Rivalry Learning for Music Classification (ICASSP 2026)**.
 
 we introduced **adversarial rivalry learning (ARL)**, a novel learning paradigm that overcomes LCA’s limitations by reducing hyperparameter tuning burden and providing a clear learning criterion. Through structured branch rivalry, ARL achieves superior performance across benchmarks with no additional inference cost, offering a practical solution for music classification.
 
