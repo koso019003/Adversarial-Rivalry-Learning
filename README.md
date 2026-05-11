@@ -91,6 +91,16 @@ You should also be able to obtain the results under the ROOT/result.
 ## Citation
 
 ```bibtex
+@INPROCEEDINGS{11463306,
+  author={Lin, Yi-Xing and Wei, Wen-Li and Lin, Jen-Chun},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Adversarial Rivalry Learning for Music Classification}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={16107-16111},
+  keywords={Filtering;Filters;MIMICs;Millimeter wave integrated circuits;Monolithic integrated circuits;Feedback loop;Life cycle assessment;Product lifecycle management;LoRa;Protocols;Attention learning;music classification},
+  doi={10.1109/ICASSP55912.2026.11463306}}
 
 ```
 
