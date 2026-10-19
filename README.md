@@ -11,7 +11,7 @@ This repo is official PyTorch implementation of **Adversarial Rivalry Learning f
 we introduced **adversarial rivalry learning (ARL)**, a novel learning paradigm that overcomes LCA’s limitations by reducing hyperparameter tuning burden and providing a clear learning criterion. Through structured branch rivalry, ARL achieves superior performance across benchmarks with no additional inference cost, offering a practical solution for music classification.
 
 
-Pleaser refer to our **[paper]()** for further details.
+Pleaser refer to our **[paper](https://ieeexplore.ieee.org/abstract/document/11463306/)** for further details.
 
 
 ## Getting started 
